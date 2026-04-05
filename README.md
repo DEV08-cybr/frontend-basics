@@ -1,4 +1,4 @@
-# 🚀 Web Development Notes
+#  Web Development Notes
 
 ## 🧠 About
 This repository contains beginner-friendly Web Development notes in a single `.docx` file.  
